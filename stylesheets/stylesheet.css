@@ -471,8 +471,9 @@ footer a:hover {
     margin-left: 0;
   }
 }
-.logo {
+.logo a {
   background: url(http://johanpienaar.co.nz/empscss/images/empscss-logo.png) no-repeat 0 0;
+  display: block;
   overflow: hidden;
   text-indent: -999px;
   width: 391px;
